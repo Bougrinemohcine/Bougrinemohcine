@@ -1,96 +1,33 @@
-- 👋 Hi, I’m @Bougrinemohcine
--  <div class="page-section bg-light">
-    <div class="container">
-      <h1 class="text-center wow fadeInUp">Latest News</h1>
-      <div class="row mt-5">
-        <div class="col-lg-4 py-2 wow zoomIn">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-category">
-                <a href="#">Covid19</a>
-              </div>
-              <a href="blog-details.html" class="post-thumb">
-                <img src="../assets/img/blog/blog_1.jpg" alt="">
-              </a>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">List of Countries without Coronavirus case</a></h5>
-              <div class="site-info">
-                <div class="avatar mr-2">
-                  <div class="avatar-img">
-                    <img src="../assets/img/person/person_1.jpg" alt="">
-                  </div>
-                  <span>Roger Adams</span>
-                </div>
-                <span class="mai-time"></span> 1 week ago
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 py-2 wow zoomIn">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-category">
-                <a href="#">Covid19</a>
-              </div>
-              <a href="blog-details.html" class="post-thumb">
-                <img src="../assets/img/blog/blog_2.jpg" alt="">
-              </a>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Recovery Room: News beyond the pandemic</a></h5>
-              <div class="site-info">
-                <div class="avatar mr-2">
-                  <div class="avatar-img">
-                    <img src="../assets/img/person/person_1.jpg" alt="">
-                  </div>
-                  <span>Roger Adams</span>
-                </div>
-                <span class="mai-time"></span> 4 weeks ago
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 py-2 wow zoomIn">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-category">
-                <a href="#">Covid19</a>
-              </div>
-              <a href="blog-details.html" class="post-thumb">
-                <img src="../assets/img/blog/blog_3.jpg" alt="">
-              </a>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">What is the impact of eating too much sugar?</a></h5>
-              <div class="site-info">
-                <div class="avatar mr-2">
-                  <div class="avatar-img">
-                    <img src="../assets/img/person/person_2.jpg" alt="">
-                  </div>
-                  <span>Diego Simmons</span>
-                </div>
-                <span class="mai-time"></span> 2 months ago
-              </div>
-            </div>
-          </div>
-        </div>
+# Hi there! I'm Mohcine Bougrine 👋
 
-        <div class="col-12 text-center mt-4 wow zoomIn">
-          <a href="blog.html" class="btn btn-primary">Read More</a>
-        </div>
+I'm **Mohcine**, a **passionate 19-year-old Full Stack Developer** from Casablanca, Morocco 🌍. I've just wrapped up my second year of full-stack development at ISTA Ben M'sik, and I’m always excited to push the boundaries of what’s possible with code 💻.
 
-      </div>
-    </div>
-  </div> <!-- .page-section -->
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## My Journey 🚀
 
-<!---
-Bougrinemohcine/Bougrinemohcine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My story started with earning a **Baccalaureate in Physical Sciences** from Lycée Al Akkad 🎓. After that, I dove headfirst into the world of tech by joining ISTA Ben M'sik, and it has been an incredible ride ever since. Along the way, I’ve developed a wide range of skills:
+
+- 🌐 **Languages**: HTML, CSS, JavaScript, PHP
+- ⚙️ **Frameworks**: ReactJS, Laravel, Livewire, Material UI, Bootstrap
+- 🛠️ **Tools**: Git (version control), Agile methodologies, UML for project preparation
+- 🗄️ **Databases**: MySQL, SQL Server, MongoDB
+
+## Real-World Experience 💼
+
+### 📅 **Full Stack Developer Intern – ITA Moulay Rachid**
+During my second year at ISTA, I had the amazing opportunity to intern as a full-stack developer at **ITA Moulay Rachid**, where I developed a powerful application for managing schedules 🗓️. This app helped streamline planning and boost productivity!
+
+### 🏆 **Hackathon Enthusiast & Volunteer**
+While interning, I didn’t stop there—I participated in a **development hackathon** 🥇, which was a thrilling experience of competition and teamwork. I also gave back by volunteering to install an operating system on over **200 devices** 💻 at one of the ISTA centers for the OFPPT.
+
+### 🔧 **Backend Developer for ISTA Ben M'sik**
+After my internship, I took on the challenge of leading the **backend development** of a project aimed at solving scheduling issues for ISTA Ben M'sik. It was an awesome experience that sharpened my problem-solving skills!
+
+## Always Growing 🌱
+
+I’m someone who’s always hungry for more knowledge 📚. My passion for learning is insatiable, and I'm always eager to explore **new technologies** and take on **exciting challenges**. Currently, I’m looking for opportunities where I can **contribute** and **evolve** alongside a **dynamic team** 🔥.
+
+## Let’s Connect! 🌟
+- 📧 **Email**: [mohcinebougrine0@gmail.com]
+- 🌐 **Portfolio**: [mohcinebougrine.netlify.app](https://mohcinebougrine.netlify.app/)
+
+Thanks for visiting my profile! Let’s create something amazing together 💪✨.
