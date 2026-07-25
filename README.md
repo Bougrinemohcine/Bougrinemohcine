@@ -1,6 +1,6 @@
 # Hi there! I'm Mohcine Bougrine 👋
 
-I'm **Mohcine**, a **passionate 19-year-old Full Stack Developer** from Casablanca, Morocco 🌍. I've just wrapped up my second year of full-stack development at ISTA Ben M'sik, and I’m always excited to push the boundaries of what’s possible with code 💻.
+I'm **Mohcine**, a **passionate 21-year-old Full Stack Developer** from Casablanca, Morocco 🌍. I've just wrapped up my second year of full-stack development at ISTA Ben M'sik, and I’m always excited to push the boundaries of what’s possible with code 💻.
 
 ## My Journey 🚀
 
